@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* text-align: center; */
+}
+
+body {
+    /* background-color: black; */
+}
+
+header {
+    text-align: center;
+    /* text-decoration: white; */
+}
+
+img {
+    width: 20%;
+    padding: 2%;
+}
+
+header div {
+    text-align: center;
+    /* color: white; */
+}
+
+section {
+    padding: 1%;
+    text-align: center;
+    /* color: white; */
+}
+
+.player {
+    padding: 3%;
+}
